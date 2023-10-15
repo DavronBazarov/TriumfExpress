@@ -1,4 +1,6 @@
 # TriumfExpress
+![iPhone 14 - 8 (1)](https://github.com/DavronBazarov/TriumfExpress/assets/104300528/d71aea07-e5e6-4303-8d80-0b3e83f371f9)
+
 ![iPhone 14 - 8](https://github.com/DavronBazarov/TriumfExpress/assets/104300528/6ba4e5dc-06b3-4924-8cc9-1fe9fd8d2c62)
 ![iPhone 14 - 3](https://github.com/DavronBazarov/TriumfExpress/assets/104300528/fd65c188-6bc8-4aa8-97fd-be23fe2f5a2f)
 ![iPhone 14 - 4](https://github.com/DavronBazarov/TriumfExpress/assets/104300528/10f36656-6571-4b9d-bba1-f3f1fbd342bd)
